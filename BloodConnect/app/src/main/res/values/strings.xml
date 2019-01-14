@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Blood Connect</string>
+
+    <string name="becomeDonorButton">Become donor</string>
+    <string name="submitButton">Submit</string>
+    <string name="showDonorsButton">Find donors</string>
+
+    <string name="firstNameInput">First name</string>
+    <string name="lastNameInput">Last name</string>
+    <string name="phoneNumberInput">Phone number</string>
+    <string name="bloodTypeInput">Your blood type</string>
+    <string name="ageInput">Age</string>
+    <string name="cityInput">City you live in</string>
+    <string name="emailInput">Email address</string>
+
+</resources>

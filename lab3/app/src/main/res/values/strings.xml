@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="no_sensor">NO SENSOR</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="Latitude_text">Latitude</string>
+    <string name="Longitude_text">Longitude</string>
+</resources>

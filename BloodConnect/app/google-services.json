@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "260888101583",
+    "firebase_url": "https://bloodconnect-23cc8.firebaseio.com",
+    "project_id": "bloodconnect-23cc8",
+    "storage_bucket": "bloodconnect-23cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260888101583:android:8891ae891d8b09e6",
+        "android_client_info": {
+          "package_name": "edu.ktu.bloodconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260888101583-3ufqfrhglusqj745bsbq10l62tcef1f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.ktu.bloodconnect",
+            "certificate_hash": "520f0e79da8b39988d0e1abb5a6d4b87648846ef"
+          }
+        },
+        {
+          "client_id": "260888101583-clh4ugrer11e1huivdb7h689f2tq61ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwV1o7BepcWzpYIMHKieiAZLK-uHqfZHc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260888101583-clh4ugrer11e1huivdb7h689f2tq61ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

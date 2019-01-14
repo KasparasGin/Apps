@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab1</string>
+
+    <string name="addButton">Add item</string>
+    <string name="secondActivityButton">View list</string>
+    <string name="imageActivityButton">Open image activity</string>
+
+    <string name="textField">Text Field</string>
+
+    <string name="titleInput">Title</string>
+    <string name="descriptionInput">Description</string>
+
+    <string name="imageTile">Title</string>
+    <string name="imageTileText">Android logo</string>
+    <string name="imageDescription">Description</string>
+    <string name="imageDescriptionText">This is a very nice Android logo in a green background.</string>
+</resources>
